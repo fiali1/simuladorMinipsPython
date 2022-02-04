@@ -1,4 +1,4 @@
-### Simulador MIPS em Python - Fase III
+### Simulador MIPS em Python
 O programa foi desenvolvido com a versão 3.8.5 do Python instalada no sistema operacional Linux, distro Ubuntu 20.04. 
 Inclui o uso da biblioteca <a href="https://numpy.org/install/">Numpy</a>, instalada usando o instalador de pacotes <a href="https://pip.pypa.io/en/stable/installing/">pip<a/>.
 
