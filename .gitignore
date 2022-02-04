@@ -1,0 +1,5 @@
+# Pasta de cache python
+/__pycache__
+
+# Arquivo minips.trace
+files/*.trace
